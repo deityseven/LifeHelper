@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LifeHelper</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="phone">phone</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in or register</string>
+    <string name="sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="givegod">"你好，欢迎写下您期待的新功能，您的留言将通过邮件通知作者，敬请期待。"</string>title
+    <string name="title">"意见反馈"</string>
+    <string name="help_feedback">"请输入您的反馈意见(字数500以内)！"</string>
+
+</resources>
